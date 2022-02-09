@@ -69,12 +69,14 @@
 
 .logo_place_header {
   position: absolute;
+  background-image: url(../images/logo_place_header.svg);
+  height: 32px;
   top: 30px;
   left: 64px;
 }
 
 .logo_place_footer {
-  width: 183px;
+  background-image: url(../images/logo_place_footer.svg);
   height: 35px;
 }
 
