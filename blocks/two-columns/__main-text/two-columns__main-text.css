@@ -1,0 +1,7 @@
+.two-columns__main-text {
+    display: block;
+    font-size: 18px;
+    line-height: 25px;
+    max-width: 80%;
+    min-width: 784px;
+  }
